@@ -1,5 +1,5 @@
 # USB Volume Controller
-### Описание проекта на русском языке, смотри ниже ↓
+### Описание проекта на русском языке, смотри ниже [↓](#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5)
 
 ## Description
 ![volume controller image](usb_controller.jpg)
