@@ -6,12 +6,12 @@
 ![volume controller image](usb_controller.jpg)
 This project is very interesting to me, because it solved one of my daily problems. I have a laptop that I watch YouTube and TV-series on, and sometimes, I need to adjust volume multiple times because of the volume flactuations in the videos. But the problem with manually adjusting the volume is that I need to minimize the screen and adjust the volume from the taskbar. This is very annoying. So, I thought of making a USB volume controller that I can use to adjust the volume without minimizing the screen. This project is the result of that thought.
 
-This project is a **USB volume controller** using a rotary encoder and a Raspberry Pi Pico. The Pico is programmed to act as a **USB HID device** that sends volume commands to the host computer (Same as what keaboard or mouse do). The rotary encoder is used to control the volume. Software used in this project is CircuitPython and HID library from Adafruit.
+This project is a **USB volume controller** using a rotary encoder and a Pimorino Tiny2040 board. The board is programmed to act as a **USB HID device** that sends volume commands to the host computer (Same as what keaboard or mouse do). The rotary encoder is used to control the volume. Software used in this project is CircuitPython and HID library from Adafruit.
 
 There is a great article on this project that will help you on setting up the Pico and downloading the Adafruit library. You can find the article [here](https://www.onetransistor.eu/2021/04/media-keys-rpi-pico-circuitpython.html?sc=1721363204924#c4698244853129018643).
 
 ## Hardware
-- Raspberry Pi Pico
+- Pimorino Tiny2040 (Raspberry Pi Pico)
 - Rotary encoder
 - Breadboard
 - Jumper wires
