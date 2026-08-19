@@ -23,7 +23,7 @@ There is a great article on this project that will help you on setting up the Pi
 - [Thonny IDE](https://thonny.org/)
 
 ## Wiring Diagram for the Pico (same on Pimorino Tiny2040)
-![Wiring Diagram](circuit_diagram.png)
+![Wiring Diagram](wiring_diagram.png)
 
 The reason behind these pins is that they perfectly allign with the rotary encoder pins and the board that I am using, which is Tiny2040. You can use any other board, but make sure to change the pins in the code accordingly.
 
